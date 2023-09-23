@@ -1,4 +1,5 @@
 # Clima
+This project retrieves weather information from a weather forecast API. It provides essential details such as temperature, humidity, and current weather conditions.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
